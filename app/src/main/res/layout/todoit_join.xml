@@ -49,6 +49,7 @@
                 android:layout_marginBottom="10dp"
                 android:background="@drawable/todoit_input_bg"
                 android:hint="아이디"
+                android:inputType="text"
                 android:paddingLeft="27dp"
                 android:textColorHint="#070707"
                 android:textSize="18dp" />
@@ -60,6 +61,7 @@
                 android:layout_marginBottom="10dp"
                 android:background="@drawable/todoit_input_bg"
                 android:hint="비밀번호"
+                android:inputType="textPassword"
                 android:paddingLeft="27dp"
                 android:textColorHint="#070707"
                 android:textSize="18dp" />
@@ -70,6 +72,7 @@
                 android:layout_height="62dp"
                 android:background="@drawable/todoit_input_bg"
                 android:hint="비밀번호 확인"
+                android:inputType="textPassword"
                 android:paddingLeft="27dp"
                 android:textColorHint="#070707"
                 android:textSize="18dp" />
