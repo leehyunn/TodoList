@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853280683397",
+    "project_id": "todolist-34436",
+    "storage_bucket": "todolist-34436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853280683397:android:1f46d2e2f4d3a7eee200ec",
+        "android_client_info": {
+          "package_name": "com.cookandroid.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZS88fi_hq0uYGnUxJyg015gYoX78O1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
